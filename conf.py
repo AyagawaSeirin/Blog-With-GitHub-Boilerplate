@@ -71,7 +71,7 @@ social_links = [
     },
     {
         "name": "Telegram",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://t.me/AyagawaSeirin",
         "icon": "gi gi-telegram"
     }
 ]
