@@ -5,3 +5,7 @@
 	path = Galileo
 	url = https://github.com/AlanDecode/Maverick-Theme-Galileo.git
 	branch = latest
+[submodule "Templates/Prism"]
+	path = Templates/Prism
+	url = https://github.com/Reedo0910/Maverick-Theme-Prism.git
+	branch = deploy
