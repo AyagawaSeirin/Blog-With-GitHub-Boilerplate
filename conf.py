@@ -37,7 +37,7 @@ external_links = [
     {
         "name": "主页",
         "url": "https://seir.in",
-        "brief": ""
+        "brief": "咱的个人主页"
     }
 ]
 nav = [
@@ -70,9 +70,9 @@ social_links = [
         "icon": "gi gi-github"
     },
     {
-        "name": "Telegram",
-        "url": "https://t.me/AyagawaSeirin",
-        "icon": "gi gi-telegram"
+        "name": "Mail",
+        "url": "mailto:AyagawaSeirin@outlook.com",
+        "icon": "gi gi-mail"
     }
 ]
 
