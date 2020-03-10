@@ -68,11 +68,6 @@ social_links = [
         "name": "GitHub",
         "url": "https://github.com/AyagawaSeirin",
         "icon": "gi gi-github"
-    },
-    {
-        "name": "Mail",
-        "url": "mailto:AyagawaSeirin@outlook.com",
-        "icon": "gi gi-mail"
     }
 ]
 
