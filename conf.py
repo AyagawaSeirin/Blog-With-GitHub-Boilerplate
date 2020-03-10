@@ -19,7 +19,7 @@ enable_jsdelivr = {
 }
 
 valine = {
-    "enable": True,
+    "enable": False,
     "el": '#vcomments',
     "appId": "rr7MUO8DnsiQDUq1EBasc6w3-gzGzoHsz",
     "appKey": "0Cyk5v1wDwbdwhAtNXrjCFE7",
