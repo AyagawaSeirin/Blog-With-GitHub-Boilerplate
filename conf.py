@@ -18,6 +18,13 @@ enable_jsdelivr = {
     "repo": "AyagawaSeirin/diary@gh-pages"
 }
 
+valine = {
+    "enable": True,
+    "el": '#vcomments',
+    "appId": "rr7MUO8DnsiQDUq1EBasc6w3-gzGzoHsz",
+    "appKey": "0Cyk5v1wDwbdwhAtNXrjCFE7",
+}
+
 # 站点设置
 site_name = "Seirin's Diary"
 site_logo = "${static_prefix}logo.jpg"
@@ -32,12 +39,12 @@ external_links = [
     {
         "name": "皮皮凛の小窝",
         "url": "https://qwq.best",
-        "brief": "咱的博客主站"
+        "brief": "博客主站"
     },
     {
         "name": "主页",
         "url": "https://seir.in",
-        "brief": "咱的个人主页"
+        "brief": "个人主页"
     }
 ]
 nav = [
