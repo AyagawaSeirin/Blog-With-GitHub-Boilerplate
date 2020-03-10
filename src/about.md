@@ -2,21 +2,19 @@
 layout: page
 title: 关于
 slug: about
-date: 2017/06/28 17:26:00
+date: 2020/03/10 10:32:00
 status: publish
-author: AlanDecode
+author: AyagawaSeirin
 categories: 
-  - Maverick
-  - Dev
+  - life
 tags: 
   - theme
 ---
 
-这里是我的个人博客，通过 GitHub 管理与构建。
+这里是我的个人日记站点，记录一些日常内容。
 
+正经的博客文章请访问我的博客: <https://qwq.best>
 
-## Contact
+想要获得更多关于我的信息，请[点击这里](https://qwq.best/other/7.html)
 
-Email: hi#imalan.cn (replace # with @)
-
-Telegram：[AlanDecode](https://t.me/alandecode)
+我的个人主页: <https://seir.in>

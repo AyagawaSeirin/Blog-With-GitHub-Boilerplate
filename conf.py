@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -20,8 +20,8 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "Seirin's Diary"
-site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
+site_logo = "${static_prefix}logo.jpg"
+site_build_date = "2020-03-10T02:26+08:00"
 author = "AyagawaSeirin"
 email = "AyagawaSeirin@outlook.com"
 author_homepage = "https://moegirl.life"
@@ -30,14 +30,14 @@ key_words = ['皮皮凛', '个人日记', 'AyagawaSeirin', '绫川星凛']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "name": "皮皮凛の小窝",
+        "url": "https://qwq.best",
+        "brief": "咱的博客主站"
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "主页",
+        "url": "https://seir.in",
+        "brief": ""
     }
 ]
 nav = [
@@ -61,18 +61,18 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/AyagawaSeirin",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/AyagawaSeirin",
         "icon": "gi gi-github"
     },
     {
-        "name": "Weibo",
+        "name": "Telegram",
         "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-weibo"
+        "icon": "gi gi-telegram"
     }
 ]
 
