@@ -8,7 +8,7 @@ author: AyagawaSeirin
 categories: 
   - life
 tags: 
-  - theme
+  - 生活
 ---
 
 这里是我的个人日记站点，记录一些日常内容。
