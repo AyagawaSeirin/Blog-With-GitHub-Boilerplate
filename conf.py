@@ -12,7 +12,7 @@ archives_page_size = 20
 template = {
     "name": "Prism",
     "type": "local",
-    "path": "/theme/Prism/"
+    "path": "../theme/Prism/"
 }
 enable_jsdelivr = {
     "enabled": True,
