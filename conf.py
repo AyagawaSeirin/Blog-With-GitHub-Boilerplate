@@ -8,7 +8,12 @@ source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
-template = "Prism"
+# template = "Prism"
+template = {
+    "name": "Prism",
+    "type": "local",
+    "path": "/Templates/Prism"
+}
 enable_jsdelivr = {
     "enabled": True,
     "repo": "AyagawaSeirin/diary@gh-pages"
