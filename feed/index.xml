@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Seirin's Diary</title><link>/</link><description>皮皮凛的个人日记站点</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/AyagawaSeirin/diary@gh-pages/logo.jpg</url><title>Seirin's Diary</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Tue, 17 Mar 2020 16:25:51 +0806</lastBuildDate><pubDate>Tue, 17 Mar 2020 16:25:51 +0806</pubDate><item><title>Start</title><link>/archives/2020-03-10/</link><description>&lt;p&gt;搭建了这么一个日记站~&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Seirin's Diary</title><link>/</link><description>皮皮凛的个人日记站点</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/AyagawaSeirin/diary@gh-pages/logo.jpg</url><title>Seirin's Diary</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Fri, 20 Mar 2020 00:05:24 +0806</lastBuildDate><pubDate>Fri, 20 Mar 2020 00:05:24 +0806</pubDate><item><title>Start</title><link>/archives/2020-03-10/</link><description>&lt;p&gt;搭建了这么一个日记站~&lt;/p&gt;
 &lt;p&gt;当然肯定是做不到天天写日记的...&lt;/p&gt;
 &lt;p&gt;当有什么想法时就写吧~&lt;/p&gt;
 </description><author>AyagawaSeirin@outlook.com (AyagawaSeirin)</author><guid isPermaLink="true">/archives/2020-03-10/</guid><pubDate>Tue, 10 Mar 2020 10:48:00 +0806</pubDate></item><item><title>Normal Day</title><link>/archives/2020-03-11/</link><description>&lt;p&gt;快要零点了才想起来还没写日记x&lt;br&gt;
@@ -47,4 +47,10 @@
 对我的博客没有造成实质上的影响&lt;br&gt;
 毕竟他连我的博客是纯静态都没有发现&lt;br&gt;
 naive&lt;br&gt;&lt;/p&gt;
-</description><author>AyagawaSeirin@outlook.com (AyagawaSeirin)</author><guid isPermaLink="true">/archives/2020-03-17/</guid><pubDate>Tue, 17 Mar 2020 23:59:00 +0806</pubDate></item></channel></rss>
+</description><author>AyagawaSeirin@outlook.com (AyagawaSeirin)</author><guid isPermaLink="true">/archives/2020-03-17/</guid><pubDate>Tue, 17 Mar 2020 23:59:00 +0806</pubDate></item><item><title>TRANSDAILY开始~</title><link>/archives/2020-03-19/</link><description>&lt;p&gt;有一天没写日记了，还是有必要写一写的。&lt;br&gt;
+transdaily项目正式在推特公布出去了，受到了大家广泛的支持。&lt;br&gt;
+还有几位小伙伴进行了赞助支持~真的非常感谢大家。&lt;br&gt;
+我们只是想尽我们的一份力，来帮助这个群体。&lt;br&gt;
+这几天一直在和小晨讨论这件事情，做一些最基础的策划~&lt;br&gt;
+具体要等到高考后才会开始呢qwq~&lt;br&gt;&lt;/p&gt;
+</description><author>AyagawaSeirin@outlook.com (AyagawaSeirin)</author><guid isPermaLink="true">/archives/2020-03-19/</guid><pubDate>Thu, 19 Mar 2020 23:59:00 +0806</pubDate></item></channel></rss>
