@@ -39,13 +39,18 @@ language = 'zh-CN'
 external_links = [
     {
         "name": "皮皮凛の小窝",
-        "url": "https://qwq.best",
-        "brief": "博客主站"
+        "url": "https://owomoe.net",
+        "brief": ""
     },
     {
-        "name": "主页",
+        "name": "个人主页",
         "url": "https://seir.in",
-        "brief": "个人主页"
+        "brief": ""
+    },
+    {
+        "name": "鲁ICP备20020678号",
+        "url": "http://www.beian.miit.gov.cn/",
+        "brief": ""
     }
 ]
 nav = [
