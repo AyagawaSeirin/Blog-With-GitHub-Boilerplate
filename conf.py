@@ -22,8 +22,8 @@ enable_jsdelivr = {
 valine = {
     "enable": False,
     "el": '#vcomments',
-    "appId": "rr7MUO8DnsiQDUq1EBasc6w3-gzGzoHsz",
-    "appKey": "0Cyk5v1wDwbdwhAtNXrjCFE7",
+    "appId": "",
+    "appKey": "",
 }
 
 # 站点设置
@@ -32,7 +32,7 @@ site_logo = "${static_prefix}logo.jpg"
 site_build_date = "2020-03-10T02:26+08:00"
 author = "AyagawaSeirin"
 email = "AyagawaSeirin@outlook.com"
-author_homepage = "https://moegirl.life"
+author_homepage = "https://diary.owomoe.net"
 description = "皮皮凛的个人日记站点"
 key_words = ['皮皮凛', '个人日记', 'AyagawaSeirin', '绫川星凛']
 language = 'zh-CN'
